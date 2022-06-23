@@ -1,9 +1,9 @@
 # Dance-Responsive-Website
 
-###Technology
+### Technology
 
 HTML, CSS & BOOTSTRAP
 
-###Support
+### Support
 
 jaytipasrija1818@gmail.com
